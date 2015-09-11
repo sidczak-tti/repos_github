@@ -13,7 +13,7 @@ $ git commit -m 'initial project version'
 
 git rm --cached -r mydirectory
 
-
+git pull #popranie z serwera najnowszej wersji projektu
 
 
 
