@@ -1,1 +1,28 @@
-xxxx
+1. Na dysku c: zak³adamy katalog sf2-git wchodzimy do niego.
+
+2. Klonowanie repozytorium, które stworzyliœmy na github:
+	$ git clone git://github.com/sidczak-tti/repos_github.git
+
+3. Dodajemy nowy plik w katalogi repos_github
+4. Nastêpnie git commit
+5. Wgrywany dane na serwer wchodzimy do c/sf2-git/repos_github
+	$ git push https://github.com/sidczak-tti/repos_github.git
+	Zostaniemy poproszeni o login i has³o.
+
+$ git commit -m 'initial project version'
+
+git rm --cached -r mydirectory
+
+https://github.com/sidczak-tti/repos_github
+git@github.com:sidczak-tti/repos_github.git
+git@github.com:sidczak-tti/repos_github.git
+git@github.com:sidczak-tti/repos_github.git
+
+$ git remote add origin git@github.com:testinguser/iphone_project.git
+$ git push origin master
+
+$ git clone git://github.com/sidczak-tti/repos_github.git
+
+git remote rm repos_github
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAr59M76oyGql9WYZjx0bbo4vJYsXnpLEZ/XieimT87GI7zaZi0vk/OAb5aP+FnRa3G9evzF0K7u0m0cjIUH0CFJUsZwy959pMDDqITEIYlRFrNppM5jDIiPBzoK1jE7i3dPzGfaX7gI+RFGfBJDeUvNCXgUw3rlusVfXomlzOJTabYhqmBxWETNSo/dnHS4q92zNjxkfZz2CTEXILE+DdPaiYFv4aSe4+lNRW2utwbl5W8Gz06tAdqf1rLzwwTR4vexEab/E9GWE9bCf/HPnrcSmDt7uHMg+DRg6Ik3/BYHwwRO8mK7mG4gH3Wo0+jr7r+LI2qJGTXVVjHPjBOslifw== Grafik1@GRAFIK1-KOMP
