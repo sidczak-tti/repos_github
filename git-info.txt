@@ -13,6 +13,15 @@ $ git commit -m 'initial project version'
 
 git rm --cached -r mydirectory
 
+
+
+
+
+
+
+
+
+
 https://github.com/sidczak-tti/repos_github
 git@github.com:sidczak-tti/repos_github.git
 git@github.com:sidczak-tti/repos_github.git
