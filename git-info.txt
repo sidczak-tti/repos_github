@@ -4,16 +4,17 @@
 	$ git clone git://github.com/sidczak-tti/repos_github.git
 
 3. Dodajemy nowy plik w katalogi repos_github
-4. Nastêpnie git commit
+4. Nastêpnie git add .
+4. Nastêpnie git commit -m 'dodanie pliku'
 5. Wgrywany dane na serwer wchodzimy do c/sf2-git/repos_github
 	$ git push https://github.com/sidczak-tti/repos_github.git
 	Zostaniemy poproszeni o login i has³o.
 
 $ git commit -m 'initial project version'
 
-git rm --cached -r mydirectory
+git rm --cached -r mydirectory #usuwanie katalogu
 
-git pull #popranie z serwera najnowszej wersji projektu
+git pull #pobranie z serwera najnowszej wersji projektu
 
 
 
