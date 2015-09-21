@@ -3,6 +3,9 @@
 2. Klonowanie repozytorium, które stworzyliœmy na github:
 	$ git clone git://github.com/sidczak-tti/repos_github.git
 
+$ git clone https://github.com/sidczak-tti/shop.git
+
+
 3. Dodajemy nowy plik w katalogi repos_github
 4. Nastêpnie git add .
 4. Nastêpnie git commit -m 'dodanie pliku'
@@ -10,13 +13,18 @@
 	$ git push https://github.com/sidczak-tti/repos_github.git master
 	Zostaniemy poproszeni o login i has³o.
 
+$ git push https://github.com/sidczak-tti/shop.git master
+
+
 $ git commit -m 'initial project version'
 
 git rm --cached -r mydirectory #usuwanie katalogu
 
 git pull #pobranie z serwera najnowszej wersji projektu
 
+git config --list - ustawienia git
 
+git checkout -- plik.txt - cofanie zmian w pliku
 xxxx
 
 
