@@ -1,0 +1,13 @@
+GIT
+Help -> Instal Mew Softwore
+http://download.eclipse.org/egit/updates/
+
+
+SYMFONY2
+Help -> Eclipse Marketplace
+http://marketplace.eclipse.org/
+
++Symfony Plugin
++Twig Plugin
++YEdit
++Doctrine Plugin
