@@ -1,0 +1,25 @@
+https://netbeans.org/kb/docs/ide/git.html
+
+1. Dodawanie proketu
+
+File -> New project
+1. Choose Project
+	Categories: PHP, Projects: PHP Application
+
+2. Name and Location
+
+	Project Name: shop
+	Sources Folder: C:\sf2-git-tutorials\shop
+	
+3. Run Configuration
+	Run As: Local Web Site
+	Project URL: http://shop.localhost
+	
+4. PHP Frameworks
+	Symfony2 PHP Web Framework
+	
+5. Comproser -> Finish
+
+Przycisk Run Project
+	Project URL: http://shop.localhost
+	IndexFile: app_dev.php
