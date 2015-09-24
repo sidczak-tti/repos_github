@@ -30,6 +30,22 @@ xxxx
 
 
 
+GITHUB
+echo # shop-tutorial >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sidczak-tti/shop-tutorial.git
+git push -u origin master
+
+
+
+git remote add origin https://github.com/sidczak-tti/shop-tutorial.git
+git push -u origin master
+
+
+
+
 
 https://github.com/sidczak-tti/repos_github
 git@github.com:sidczak-tti/repos_github.git
